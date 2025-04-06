@@ -4,10 +4,11 @@
   - Jupyter Notebooks/Lab
   - APL
   - OpenCV
+  - Rust
 - I’m currently learning
+  - Rust
   - TensorFlow
   - Uiua
-  - Rust
 
 <!---
 AleBeda/AleBeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
