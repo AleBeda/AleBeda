@@ -5,10 +5,10 @@
   - APL
   - OpenCV
   - Rust
+  - Vibe coding
 - I’m currently learning
   - Rust
   - TensorFlow
-  - Uiua
 
 <!---
 AleBeda/AleBeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
