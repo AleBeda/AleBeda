@@ -6,9 +6,11 @@
   - OpenCV
   - Rust
   - Vibe coding
+  - Genealogy
 - I’m currently learning
   - Rust
   - TensorFlow
+  - PyTorch
 
 <!---
 AleBeda/AleBeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
